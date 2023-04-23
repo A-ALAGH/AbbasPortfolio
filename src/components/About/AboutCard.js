@@ -10,8 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Abbas LAGHOUB </span>
             from <span className="purple"> Algiers,Algeria.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+            <br />I am a junior web developper.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
